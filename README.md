@@ -7,11 +7,12 @@
 undefined
 
 ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)    
-    * [Contributing](#Contributing)
-    * [Tests](#Tests)
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)    
+* [Contributing](#Contributing)
+* [Tests](#Tests)
 
 ## Installation
 
