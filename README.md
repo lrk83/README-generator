@@ -1,6 +1,6 @@
 # Professional README-generator
 
-##Video Walk Through
+## Video Walk Through
 
 [![Screen Capture](https://img.youtube.com/vi/FX4WBwVGKfY/0.jpg)](https://youtu.be/FX4WBwVGKfY)
 
