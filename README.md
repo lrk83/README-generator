@@ -1,7 +1,6 @@
 # Professional README-generator
 
-## Video Walk Through
-
+## Video Walk Through (Click image to view)
 [![Screen Capture](https://img.youtube.com/vi/FX4WBwVGKfY/0.jpg)](https://youtu.be/FX4WBwVGKfY)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) 
