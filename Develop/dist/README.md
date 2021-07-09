@@ -1,10 +1,10 @@
-# Professional README Generator
+# Professional README-generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) 
 
 ## Description
 
-undefined
+This application generates a professional README.md file for a new project. It is a command line application that prompts the user for information about their application repository, then generates a professional README based on the user's input. This README is divided into sections, organized by a table of contents, and interactive via a series of hyperlinks. 
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ undefined
 
 ## Installation
 
-In order to install this project, clone the code from this repository, navigate to the clone's directory, and type node index.js into the command line. The application will then guide you through a series of questions.
+In order to install this project, clone this repository, navigate to the clone's directory, then type cd Develop, then type node index.js into your command line.
 
 ## Usage
 
-After installing the application and typing node index.js into the command line, the application will prompt you through a series of questions. Answer these questions fully, and the application will use your answers to generate your README. Find this newly generated README in develop/dist
+after installing the application and typing node index.js into your command line, you will be prompted by a series of questions. Answer the questions fully, then find your newly generated README.md file in the Develop/dist directory.
 
 ## License
 
-This application is covered under the MIT license. For more information visit [https://choosealicense.com/](https://choosealicense.com/)
+This application is covered under the Apache License 2.0 license. For more information visit [https://choosealicense.com/](https://choosealicense.com/)
 
 ## Contributing
 
-In order for other develops to contribute to this application, please reach out to me. My contant information is listed bellow under "Questions."
+If you would like to contribute to this application, please email me. You can find my contact info bellow under the Questions section.
 
 ## Tests
 
