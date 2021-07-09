@@ -49,7 +49,7 @@ ${templateData.contribution}
 
 ## Tests
 
-${templateData.tests}
+${templateData.testing}
 
 ## Questions
 
