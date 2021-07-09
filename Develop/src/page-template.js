@@ -21,7 +21,7 @@ ${license}
 
 ## Description
 
-${templateData.description}
+${templateData.decription}
 
 ## Table of Contents
 
