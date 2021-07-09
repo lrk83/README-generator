@@ -32,7 +32,7 @@ If you would like to contribute to this application, please email me. You can fi
 
 ## Tests
 
-undefined
+In order to test this application, watch this screen recording, copy this code exactly into your command line, then look in the Develop/dist directory. You should find a README.md file that exactly matches this repository's README (besides the screen recording and probably some typos).
 
 ## Questions
 
